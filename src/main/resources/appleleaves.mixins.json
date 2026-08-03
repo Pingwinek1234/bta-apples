@@ -1,9 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.danygames2014.template.mixin",
+  "package": "net.morgana.appleleaves.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "LeavesBlockMixin"
   ],
   "server": [
   ],

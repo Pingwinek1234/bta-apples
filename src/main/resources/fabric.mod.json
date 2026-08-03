@@ -1,28 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "template",
+  "id": "appleleaves",
   "version": "${version}",
 
-  "name": "Template",
-  "description": "",
+  "name": "Apple Leaves",
+  "description": "Back ports Oak Leaves dropping apples",
   "authors": [
-    "DanyGames2014"
+    "morgana"
   ],
 
   "license": "MIT",
-  "icon": "assets/template/icon.png",
+  "icon": "assets/appleleaves/icon.png",
 
   "environment": "*",
-  "entrypoints": {
-    "stationapi:event_bus": [
-    ],
-    "stationapi:event_bus_client": [
-    ],
-    "stationapi:event_bus_server": [
-    ]
-  },
+  "entrypoints": {},
   "mixins": [
-    "template.mixins.json"
+    "appleleaves.mixins.json"
   ],
 
   "depends": {

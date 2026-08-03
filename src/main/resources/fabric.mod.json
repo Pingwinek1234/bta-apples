@@ -4,10 +4,15 @@
   "version": "${version}",
 
   "name": "Apple Leaves",
-  "description": "Back ports Oak Leaves dropping apples",
+  "description": "Back ports Oak Leaves dropping Apples",
   "authors": [
     "morgana"
   ],
+
+  "contact": {
+    "sources": "https://github.com/morgana-x/babric-apples",
+    "issues": "https://github.com/morgana-x/babric-apples/issues"
+  },
 
   "license": "MIT",
   "icon": "assets/appleleaves/icon.png",
